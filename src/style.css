@@ -1,0 +1,991 @@
+.rectangle {
+    display: block;
+    margin: 0 auto;
+Width: 1440px;
+Height: 859px;
+ background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(0deg,rgba(217, 217, 217, 1), rgba(255, 255, 255, 1)35%);
+}
+p {
+    position: relative;
+    display: block;
+    margin-top: -520px;
+    margin-left: 150px;
+    width: 379px;
+    height: 519px;
+    
+}
+h1 {
+    display: block;
+    position: relative;
+    margin-top: -550px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    text-align: center;
+    align-items: center;
+    font-family: inter;
+    width: 274px;
+    height: 138px;
+    font-weight: 900;
+    font-size: 128px;
+    line-height: 138.27px;
+    color: rgba(77, 7, 119, 1);
+}
+h2 {
+    display: block;
+    position: relative;
+    margin: -150px 0px 0px 785px;
+    width: 87px;
+Height: 19px;
+font-family: inter;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 19.44px;
+    color: rgba(77, 7, 119, 1);
+}
+h3 {
+    margin: 130px 0 0 530px;
+    width: 297px;
+    height: 20px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19.84px;
+    color: rgba(141, 223, 49, 1);
+}
+h4 {
+    margin: 2px 0 0 530px;
+    width: 492px;
+    height: 61px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19.84px;
+    color: rgba(0, 0, 0, 1);
+}
+.text .btn {
+    margin: 15px 0 0 820px;
+    width: 140px;
+    height: 49px;
+    border-radius: 58px;
+    font-size: 16px;
+    font-family: inter;
+    cursor: pointer;
+    background-color: rgba(141, 223, 49, 1);
+    color: white;
+    padding: 0;
+border: none;
+    
+}
+.text .btn:hover {
+    background-color: aqua;
+}
+.prymougolnik {
+    display: block;
+    margin: 0 auto;
+    width: 1440px;
+    height: 59px;
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: 0 0 20px 0 rgba(77, 7, 119, 1);
+}
+.image {
+    display: block;
+    margin: -50px 0 0 150px;
+    position: relative;
+    width: 49px;
+    height: 43px;  
+}
+.img {
+    display: block;
+    margin: -27.5px 0 0 720px; 
+    position: relative;
+    width: 15px;
+    height: 13px;
+    
+}
+.inst {
+    display: block;
+    margin: -15px 0 0 850px;
+    position: relative;
+    width: 15px;
+    height: 15px;
+    
+}
+.phone {
+    margin: -15px 0 0 1000px;
+    display: block;
+    width: 15px;
+    height: 15px;
+    position: relative;
+    color: rgba(77, 7, 119, 1);
+}
+h5 {
+    display: block;
+    position: relative;
+    margin: -14px 0 0 745px;
+    width: 95px;
+    height: 17px;
+    color: rgba(0, 0, 0, 1);
+    font-family: inter;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17.28px;
+}
+h6 {
+    display: block;
+    position: relative;
+    margin: -17.5px 0 0 875px;
+    width: 91px;
+    height: 17px;
+    font-family: inter;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17.28px;
+    color: rgba(0, 0, 0, 1);
+}
+h7 { display: block;
+    position: relative;
+    margin: -17.5px 0 0 1025px;
+    width: 152px;
+    height: 17px;
+    font-family: inter;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17.28px;
+    color: rgba(0, 0, 0, 1);
+}
+.button1 .btn1 {
+    display: block;
+    position: relative;
+    margin: -27.5px 0 0 1200px;
+    width: 182px;
+    height: 35px;
+    border-radius: 58px;
+    cursor: pointer;
+    background-color: rgba(77, 7, 119, 1);
+    color: rgba(255, 255, 255, 1);
+    font-family: inter;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 17.28px;
+    border: none;
+}
+.button1 .btn1:hover {
+    background-color: forestgreen;
+}
+.kvadrat {
+    display: block;
+    position: relative;
+    margin: 35px auto 0px;
+    width: 1440px;
+    height: 593px;
+    background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(0deg,rgba(217, 217, 217, 1), rgba(255, 255, 255, 1)35%);
+    
+}
+.jump {
+   position: relative;
+    display: block;
+    margin-top: -225px;
+    margin-left: 479.200px;
+    width: 484px;
+    height: 484px;
+   
+}
+.imadd {
+    display: block;
+    position: relative;
+    width: 53.92px;
+    height: 216px;
+    margin: -400px 0 0 225px;
+}
+h8 {
+    display: block;
+    position: relative;
+    margin: -460px 0 0 290px;
+    width: 72.39px;
+    height: 144.99px;
+    color: linear-gradient(90deg, rgba(146, 131, 154, 0.95), rgba(30, 0, 48, 0.9)90%);
+    font-family: inter;
+    font-size: 170px;
+}
+h9 {
+    display: block;
+    position: relative;
+    margin: -220px 0 0 730px;
+    width: 72.39px;
+    height: 144.99px;
+    color: linear-gradient(90deg, rgba(146, 131, 154, 0.95), rgba(30, 0, 48, 0.9)30%);
+    font-family: inter;
+    font-size: 170px;
+}
+h10 {
+    display: block;
+    position: relative;
+    margin: -160px 0 0 1115px;
+    width: 95px;
+    height: 17px;
+    font-weight: 500;
+    font-family: inter;
+    font-size: 18px;
+    line-height: 17.28px;
+    color: rgba(0, 0, 0, 1);
+
+}
+h11 {
+    display: block;
+    position: relative;
+    margin: 200px 0 0 970px;
+    text-align: right;
+    width: 240px;
+    height: 34px;
+    font-family: inter;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17.28px;
+    color: rgba(0, 0, 0, 1);
+    
+}
+.button2 .btn2 {
+    display: block;
+    margin: 25px 0 0 1050px;
+    position: relative;
+    width: 161px;
+    height: 49px;
+    border-radius: 58px;
+    background-color: rgba(141, 223, 49, 1);
+    color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+    font-family: inter;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 17.28px;
+    border: none;
+}
+.button2 .btn2:hover {
+    background-color:blueviolet;
+}
+.prym {
+   position: relative;
+    display: block;
+    margin: 150px auto 0;
+    background: linear-gradient(180deg, rgba(217, 217, 217, 1), rgba(255, 255, 255, 1)60%);
+    width: 1440px;
+    height: 788px;
+    
+}
+.h12 {
+    display: block;
+    position: relative;
+    margin: -600px 0 0 150px;
+    width: 448px;
+    height: 91px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 84px;
+    line-height: 90.74px;
+    color: rgba(77, 7, 119, 1);
+    text-shadow: 60px 10px 0px rgba(218, 218, 218, 1);
+}
+.h13 {
+    display: block;
+    position: relative;
+    margin: 50px 0 0 150px;
+    width: 730px;
+    height: 97px;
+    font-family: inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    color: rgba(0, 0, 0, 1);
+    
+}
+.hat {
+    display: block;
+    position: relative;
+    margin: -250px 0 0 875px;
+    width: 435px;
+    height: 237px;
+   
+}
+ p.h14 {
+    display: block;
+    position: relative;
+    margin: 80px 0 0 260px;
+    text-align: center;
+    align-items: center;
+    width: 984px;
+    height: 69px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 69.13px;
+    color: rgba(217, 217, 217, 1);
+}
+.star {
+    display: block;
+    position: relative;
+    margin: -60px 0 0 260px;
+    width: 170px;
+    height: 170px;
+}
+.zamok {
+    display: block;
+    position: relative;
+    margin: -170px 0 0 530px;
+    width: 170px;
+    height: 170px;
+}
+.krug {
+    display: block;
+    position: relative;
+    margin: -170px 0 0 800px;
+    width: 170px;
+    height: 170px;
+    
+}
+.calendar {
+    display: block;
+    position: relative;
+    margin: -170px 0 0 1075px;
+    width: 170px;
+    height: 170px;
+}
+.not {
+    display: block;
+    position: relative;
+    margin: 25px 0 0 245px;
+    width: 204px;
+    font-weight: 900;
+    height: 17px;
+    font-family: inter;
+    font-size: 16px;
+    line-height: 17.28px;
+    color: rgba(77, 7, 119, 1);
+}
+.not2 {
+    display: block;
+    position: relative;
+    margin: -17px 0 0 510px;
+    width: 229px;
+    font-weight: 900;
+    height: 17px;
+    font-family: inter;
+    font-size: 16px;
+    line-height: 17.28px;
+    color: rgba(77, 7, 119, 1);}
+
+.not3 {
+    display: block;
+    position: relative;
+    margin: -17px 0 0 790px;
+    width: 213px;
+    font-weight: 900;
+    height: 17px;
+    font-family: inter;
+    font-size: 16px;
+    line-height: 17.28px;
+    color: rgba(77, 7, 119, 1);}
+
+.not4 {
+    display: block;
+    position: relative;
+    margin: -17px 0 0 1070px;
+    width: 199px;
+    font-weight: 900;
+    height: 17px;
+    font-family: inter;
+    font-size: 16px;
+    line-height: 17.28px;
+    color: rgba(77, 7, 119, 1);}
+
+.button3 .btn3 {
+    display: block;
+    position: relative;
+    margin: 40px auto 0;
+    width: 285px;
+    height: 49px;
+    border-radius: 58px;
+    background-color: rgba(141, 223, 49, 1);
+    font-family: inter;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 17.28px;
+    color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+    border: none;
+}
+.button3 .btn3:hover {
+    background-color:blueviolet;
+}
+.violet {
+    display: block;
+    margin: 0 auto;
+    width: 1440px;
+    height: 561px;
+    background: linear-gradient(0deg, rgba(123, 26, 182, 1), rgba(206, 170, 228, 0.3698), rgba(255, 255, 255, 0)100%);
+    
+}
+.racketa {
+    display: block;
+    position: relative;
+    margin: -500px 0 0 110px;
+    width: 472px;
+    height: 449px;
+    
+}
+.glav {
+    display: block;
+    position: relative;
+    margin: -400px 0 0 600px;
+    width: 417px;
+    height: 182px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 84px;
+    line-height: 90.74px;
+    color: rgba(77, 7, 119, 1);
+    text-shadow: 65px 15px 0 rgba(221, 207, 228, 0.4);
+}
+.the {
+    display: block;
+    position: relative;
+    margin: 5px 0 0 600px;
+    width: 410px;
+    height: 28px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 28.09px;
+    color: rgba(77, 7, 119, 1);
+}
+.tea {display: block;
+    position: relative;
+    margin: 15px 0 0 600px;
+    width: 684px;
+    height: 108px;
+    font-family: inter;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21.92px;
+    color: rgba(255, 255, 255, 1);
+}
+.button4 .btn4 {
+    display: block;
+    position: relative;
+    margin: 40px 0 0 640px;
+    width: 106px;
+    height: 49px;
+    border-radius: 58px;
+    font-family: inter;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 17.28px;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(141, 223, 49, 1);
+    border: none;
+}
+.button4 .btn4:hover {
+    background-color: blueviolet;
+}
+.bord {
+    display: block;
+    margin: 24px auto 0px;;
+    width: 1440px;
+    height: 622px;
+    background: linear-gradient(180deg, rgba(123, 26, 182, 1), rgba(55, 0, 88, 1)50%, rgba(123, 26, 182, 1)100%);
+}
+.vybor {
+    display: block;
+    position: relative;
+    margin: -470px 0 0 160px;
+    width: 507px;
+    height: 182px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 84px;
+    line-height: 90.74px;
+    color: rgba(255, 255, 255, 1);
+    text-shadow: 55px 20px 0px rgba(195, 172, 210, 0.2);
+
+}
+.osnov {
+    display: block;
+    position: relative;
+    margin: 10px 0 0 165px;
+    width: 549px;
+    height: 78px;
+    font-family: inter;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19.36px;
+    color:  rgba(255, 255, 255, 1);
+}
+.osnov2 {
+    display: block;
+    position: relative;
+    margin: -55px 0 0 165px;
+    width: 559px;
+    height: 78px;
+    font-family: inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    color:  rgba(255, 255, 255, 1);
+}
+.button5 .btn5 {
+    display: block;
+    position: relative;
+    margin: 10px 0 0 160px;
+    width: 285px;
+    height: 49px;
+    cursor: pointer;
+    border-radius: 58px;
+    font-family: inter;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 17.28px;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(141, 223, 49, 1);
+    border: none;
+    
+}
+.button5 .btn5:hover {
+    background-color: blueviolet;
+}
+.java {
+    display: flex;
+    position: relative;
+    margin: -325px 0 0 925px;
+    text-align: right;
+    width: 81px;
+    height: 35px;
+    font-family: inter;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 34.57px;
+    color: rgba(255, 255, 255, 1);
+}
+.javascript {
+    display: flex;
+    position: relative;
+    margin: 85px 0 0 810px;
+    text-align: right;
+    width: 81px;
+    height: 35px;
+    font-family: inter;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 34.57px;
+    color: rgba(255, 255, 255, 1);
+}
+.elixir {
+    display: flex;
+    position: relative;
+    margin: 85px 0 0 910px;
+    text-align: right;
+    width: 81px;
+    height: 35px;
+    font-family: inter;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 34.57px;
+    color: rgba(255, 255, 255, 1);
+}
+.jav {
+    display: block;
+    position: relative;
+    margin: -315px 0 0 1030px;
+    width: 106.93px;
+    height: 107.94px;
+}
+.javascriptrt {
+    display: block;
+    position: relative;
+    margin: 15px 0 0 1030px;
+ width: 106.93px;
+    height: 107.94px;
+}
+.elix {
+    display: block;
+    position: relative;
+    margin: 15px 0 0 1030px;
+    width: 107.94px;
+    height: 107.94px;
+}
+.wen {
+    display: block;
+    position: relative;
+    margin: -390px 0 0 1150px;
+    width: 234px;
+    height: 422px;
+    
+}
+.tey {
+    display: block;
+    margin: 95px auto 0;
+    width: 1440px;
+    height: 694px;
+    background: linear-gradient(180deg, rgba(123, 26, 182, 1), rgba(201, 161, 225, 1), rgba(255, 255, 255, 1))
+}
+.kak {
+    margin: -600px auto 0;
+    display: block;
+    position: relative;
+    width: 1075px;
+    height: 91px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 84px;
+    line-height: 90.74px;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+}
+.pol {
+    display: block;
+    position: relative;
+    margin: 15px auto 0;
+    width: 701px;
+    height: 64px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 31.47px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+.pen {
+    display: block;
+    position: relative;
+    margin: 10px 0 0 250px;
+    width: 170px;
+    height: 170px;
+    
+}
+.phone2 {
+   display: block;
+    position: relative;
+    margin: -170px 0 0 525px;
+    width: 170px;
+    height: 170px;
+    
+}
+.checashion {
+    display: block;
+    position: relative;
+    margin: -170px 0 0 810px;
+    width: 170px;
+    height: 170px;
+}
+.rockk {
+     display: block;
+    position: relative;
+    margin: -170px 0 0 1100px;
+    width: 170px;
+    height: 170px;
+}
+.cook {
+    display: block;
+    position: relative;
+    margin: 30px 0 0 250px;
+    width: 164px;
+    height: 17px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 17.28px;
+    text-align: center;
+    color: rgba(77, 7, 119, 1);
+        
+}
+.cook2 {
+    display: block;
+    position: relative;
+    margin: -17px 0 0 490px;
+    width: 244px;
+    height: 17px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 17.28px;
+    text-align: center;
+    color: rgba(77, 7, 119, 1);
+}
+.cook3 {
+    display: block;
+    position: relative;
+    margin: -17px 0 0 790px;
+    width: 218px;
+    height: 17px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 17.28px;
+    text-align: center;
+    color: rgba(77, 7, 119, 1);
+}
+.cook4 {
+    display: block;
+    position: relative;
+    margin: -17px 0 0 1100px;
+    width: 178px;
+    height: 17px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 17.28px;
+    text-align: center;
+    color: rgba(77, 7, 119, 1);
+}
+.button6 .btn6 {
+    display: block;
+    position: relative;
+    margin: 50px auto 0;
+    width: 184px;
+    height: 49px;
+    background-color: rgba(141, 223, 49, 1);
+    border-radius: 58px;
+    cursor: pointer;
+    font-family: inter;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 17.28px;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    text-align: center;
+}
+.button6 .btn6:hover {
+    background-color: blueviolet;
+}
+.cook5 {
+    display: block;
+    position: relative;
+    margin: 30px 0 0 215px;
+    width: 232px;
+    height: 53px;
+    font-family: inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+}
+.cook6 {
+    display: block;
+    position: relative;
+    margin: -55px 0 0 495px;
+    width: 232px;
+    height: 53px;
+    font-family: inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+}
+.cook7 {
+    display: block;
+    position: relative;
+    margin: -55px 0 0 785px;
+    width: 232px;
+    height: 53px;
+    font-family: inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+}
+.cook8 {
+    display: block;
+    position: relative;
+   margin: -55px 0 0 1075px;
+    width: 232px;
+    height: 53px;
+    font-family: inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+}
+.rec {
+     display: block;
+    position: relative;
+    margin: 100px auto 0;
+    width: 1440px;
+    height: 556px;
+    background: linear-gradient(0deg, rgba(217, 217, 217, 1), rgba(251, 251, 251, 1), rgba(255, 255, 255, 1));
+}
+.chel {
+    display: block;
+    position: relative;
+    margin: -575px 0 0 170px;
+}
+.zap {
+    display: block;
+    position: relative;
+    margin: -470px auto 0;
+    width: 564px;
+    height: 35px;
+    font-family: inter;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 34.57px;
+    color: rgba(77, 7, 119, 1);
+    text-align: center;
+}
+.wrapper {
+    display: block;
+    position: relative;
+    margin: 50px auto 0;
+    width: 629px;
+    height: 232px;
+    background: rgba(77, 7, 119, 1);
+    border-radius: 18px;
+    border: none;
+}
+.wrapper .input-box1 {
+    display: flex;
+    position: absolute;
+    width: 359px;
+    height: 56px;
+    margin: 20px 0 0px 30px;
+    border: none;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 1);
+    text-align: center;
+}
+.wrapper .input-box2 {
+    display: flex;
+    position: absolute;
+    width: 359px;
+    height: 56px;
+    margin: 90px 0 0px 30px;
+    border: none;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 1);
+    text-align: center;
+}
+.wrapper .input-box3 {
+    display: flex;
+    position: absolute;
+    width: 359px;
+    height: 56px;
+    margin: 160px 0 0px 30px;
+    border: none;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 1);
+    text-align: center;
+}
+
+.input-box1 input {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 18px;
+    border: none;
+}
+.input-box2 input {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 18px;
+    border: none;
+}
+.input-box3 input {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 18px;
+    border: none;
+}
+.input-box1 input::placeholder {
+    position: relative;
+    width: 100%;
+    height: 50%;
+    padding: 0 0 0 30px;
+    font-family: inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.56px;
+    color: rgba(77, 7, 119, 1);
+}
+.input-box2 input::placeholder {
+    position: relative;
+    width: 100%;
+    height: 50%;
+    padding: 0 0 0 30px;
+    font-family: inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.56px;
+    color: rgba(77, 7, 119, 1);
+}
+.input-box3 input::placeholder {
+    position: relative;
+    width: 100%;
+    height: 50%;
+    padding: 0 0 0 30px;
+    font-family: inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.56px;
+    color: rgba(77, 7, 119, 1);
+}
+.msg {
+    display: block;
+    position: relative;
+    margin: -260px 0 0 840px;
+}
+.knopka .knop {
+    display: block;
+    position: relative;
+    margin: -75px auto 0;
+    width: 136px;
+    height: 49px;
+    border-radius: 58px;
+    border: none;
+    background-color: rgba(141, 223, 49, 1);
+    font-family: inter;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 17.28px;
+    color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+    text-align: center;
+}
+.knopka .knop:hover {
+    background-color: blue;
+}
+.clad {
+    display: block;
+    position: relative;
+    margin: 100px auto 0;
+    background-color: rgba(77, 7, 119, 1);
+    width: 1440px;
+    height: 76px;
+}
+.pl {
+    display: block;
+    position: relative;
+    margin: -50px 0 0 695px;
+    width: 100px;
+    height: 23.41px;
+    color: rgba(255, 255, 255, 1);
+    font-family: inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+.finish {
+    display: block;
+    position: relative;
+    margin: 20px auto 0;
+    width: 1440px;
+    height: 11px;
+    background: rgba(141, 223, 49, 1);
+}
